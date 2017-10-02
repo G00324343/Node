@@ -12,6 +12,11 @@ uses an event-driven, non-blocking I/O model that makes it lightweight and
 efficient. The Node.js package ecosystem, [npm][], is the largest ecosystem of
 open source libraries in the world.
 
+Express is a minimal and flexible Node.js web application framework that provides a robust
+set of features to develop web and mobile applications. It facilitates the rapid development
+of Node-based Web applications. Following are some of the core features of Express
+framework:
+
 The Node.js project is supported by the
 [Node.js Foundation](https://nodejs.org/en/foundation/). Contributions,
 policies, and releases are managed under an
